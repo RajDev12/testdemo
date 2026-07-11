@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("Project Discussion")
 
-# from tensorflow.keras.models import load_model
+from tensorflow.keras.models import load_model
 
 # model=load_model("rnn1.keras",compile=False)
 # new_review=st.text_area("Text to translate")
